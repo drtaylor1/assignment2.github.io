@@ -1,0 +1,15 @@
+body {
+    width: 350px;
+}
+
+a {
+    text-decoration: underline;
+}
+b {
+    background-color:orange;
+    color: black;
+}
+c {
+    font-weight:bold;
+    color:red;
+}
